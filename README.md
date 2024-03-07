@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ertuğrul Kocaoğlu</title>
 </head>
 <body>
 <h1>Ertuğrul Kocaoğlu</h1> <!--Sayfaya girince adımın gözüktüğü ana başlığın olduğu bölüm. -->
